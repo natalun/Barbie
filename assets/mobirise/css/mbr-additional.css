@@ -415,6 +415,15 @@ h6,
 #msg-box7-0 .lead p {
   color: #fff;
 }
+#msg-box7-0 H3 {
+  color: #7c706b;
+}
+#msg-box7-0 P {
+  color: #7c706b;
+}
 #features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #7e9b9f;
+}
+#features1-3 .mbr-cards-col:nth-child(even) .card-title {
+  color: #7e9b9f;
 }

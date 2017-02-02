@@ -42,6 +42,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "color": "#7c706b"
             }
           },
           "_tags": [
@@ -64,7 +70,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#cccccc",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -97,9 +103,17 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7e9b9f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#7e9b9f"
+            }
+          },
           "_anchor": "features1-3",
           "_params": {
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -208,12 +222,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -227,7 +236,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
