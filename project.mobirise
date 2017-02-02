@@ -259,7 +259,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nDeath Ring<br>Kung Fu City, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: PunchingBag@KungFu.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Contacts</strong><br>\nEmail: PunchingBag@KungFu.com<br><br>",
           "text3": "<strong>Links</strong><br>www.KungFu.com"
         }
       ]
