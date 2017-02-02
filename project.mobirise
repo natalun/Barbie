@@ -171,7 +171,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"http://www.dreamworks.com/kungfupanda/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
