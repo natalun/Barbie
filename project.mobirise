@@ -77,8 +77,8 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/jhUkGIsKvn0",
-              "aspectratio": "16:9",
+              "src": "https://youtu.be/jhUkGIsKvn0?t=25s",
+              "aspectratio": "4:3",
               "autoplay": "on",
               "loop": "on"
             },
